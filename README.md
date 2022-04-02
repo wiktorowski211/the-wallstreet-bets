@@ -23,7 +23,7 @@ The analysis was organized into following sections:
 - Text recognition using [keras_ocr](https://github.com/faustomorales/keras-ocr)
 - Visual object recognition using [YOLOv5](https://github.com/ultralytics/yolov5)
 
-### 3. Features importance:
+### 3. Feature importance:
 - Evaluation
 - Correlations and other analyses
 - Selection
